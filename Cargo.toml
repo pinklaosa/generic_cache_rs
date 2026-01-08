@@ -2,7 +2,7 @@
 name = "generic_cache"
 authors = ["Nattapong Sirilappanich"]
 description = "Easy to use object caching based on defined TTL"
-version = "1.1.0"
+version = "1.1.1"
 edition = "2024"
 license = "MIT"
 readme = "README.md"
